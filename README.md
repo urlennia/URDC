@@ -17,7 +17,7 @@ If you wish to purchase URDC tokens, please visit the <a href="http://95.183.53.
 
 Purchase URDC Tokens
 
-The Noble Depository(<a href="depository.md">learn more</a>) will guide you through the process of acquiring URDC tokens directly. Ensure that you have the appropriate wallet, such as MetaMask, and sufficient funds in your chosen cryptocurrency to complete the purchase.
+The Noble Depository(<a href="depository.md">depository.md</a>) will guide you through the process of acquiring URDC tokens directly. Ensure that you have the appropriate wallet, such as MetaMask, and sufficient funds in your chosen cryptocurrency to complete the purchase.
 
 
 
