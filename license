@@ -1,0 +1,20 @@
+Urlennia Open License (UOL-1.0)
+Preamble
+This license allows free use, modification, and distribution of this software, provided it is not used for fraudulent purposes, including unauthorized access to treasury systems, malicious duplication, or deceptive replication.
+
+1. Permission & Use
+You may use, copy, modify, and distribute this software for any lawful purpose.
+You may create derivative works based on this software.
+You may use this software in both personal and commercial projects.
+2. Restrictions
+Treasury Protection: No contract deployed using this code, or any derivative of it, may attempt to access, interact with, or manipulate any official Urlennia Treasury or Reserve Wallets.
+No Deceptive Duplication: You may not create a project that misrepresents itself as an official Urlennia token, protocol, or service.
+Security & Compliance: You must not use this software in a manner that violates any laws or regulations regarding fraud, financial crime, or unauthorized access.
+3. Liability Disclaimer
+This software is provided “as is”, without warranty of any kind.
+The authors and contributors are not responsible for any damages arising from its use.
+4. Enforcement
+Any use of this software in violation of these terms automatically revokes all rights granted under this license.
+Urlennia reserves the right to publicly blacklist and report fraudulent contracts.
+5. Attribution
+You may use this code freely, but you must provide clear attribution to the original authors.
