@@ -10,7 +10,16 @@ Overview
 
 The Urlennian Digital Coin(URDC) is a type of cryptocurrency that is referred to as a commodity-backed stablecoin, meaning it is backed by reserve assets in a decentralized financial system, such as gold, platinum, and petroleum assets. In the case of URDC, it is designed to be pegged to the Urlennian gross national product(GNP) and secured 1:1 by real world commodities.
 
-URDC is natively supported on the Urlennian Treasury Noble Depository(http://95.183.53.38/noble-depository/), Polygon blockchain – with more expected in the future. 
+<br><br>
+How to Purchase URDC Tokens:
+
+If you wish to purchase URDC tokens, please visit the <a href="http://95.183.53.38/noble-depository/">Noble Depository</a> that has been set up:
+
+Purchase URDC Tokens
+
+The Noble Depository(depository.md) will guide you through the process of acquiring URDC tokens directly. Ensure that you have the appropriate wallet, such as MetaMask, and sufficient funds in your chosen cryptocurrency to complete the purchase.
+
+
 
 <br><br>
 Key Features:
