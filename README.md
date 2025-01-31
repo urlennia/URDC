@@ -75,6 +75,6 @@ Decimals: 18
 <br><br>
 Resources:
 
-Official Website http://95.183.53.38/
+Official Website:  http://95.183.53.38/urdc/
 
-Whitepaper http://95.183.53.38/wp-content/uploads/2025/01/urdc-whitepaper.pdf
+Whitepaper:  http://95.183.53.38/wp-content/uploads/2025/01/urdc-whitepaper.pdf
