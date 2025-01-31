@@ -10,6 +10,8 @@ Overview
 
 The Urlennian Digital Coin(URDC) is a type of cryptocurrency that is referred to as a commodity-backed stablecoin, meaning it is backed by reserve assets in a decentralized financial system, such as gold, platinum, and petroleum assets. In the case of URDC, it is designed to be pegged to the Urlennian gross national product(GNP) and secured 1:1 by real world commodities.
 
+URDC is natively supported on the Urlennian Treasury Noble Depository(http://95.183.53.38/noble-depository/), Polygon blockchain – with more expected in the future. 
+
 <br><br>
 Key Features:
 
