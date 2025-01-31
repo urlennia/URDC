@@ -46,9 +46,10 @@ Developers can access real-time data, token balances, and transaction informatio
 
 `https://api.polygonscan.com/api?module=account&action=tokenbalance&contractaddress=0x554993f21376e2beDBE81340eE43a1f2f37f9662&address=0xfb3e15140Fd4207562F7F93AA2d136D1e590F086&apikey=F5HR1JBU4Q6QUP2XQVNAX3T5YTPCEUE67Z`
 
-24hr Price Data
+<a href="http://95.183.53.38/noble-depository/">24hr Price Data</a>
 
-Liquidity Pool Data
+<a href="https://app.uniswap.org/explore/tokens/polygon/0x554993f21376e2bedbe81340ee43a1f2f37f9662
+">Liquidity Pool Data</a>
 
 <br><br>
 For further details and real-time updates, please visit the Noble Depository.
