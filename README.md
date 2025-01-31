@@ -73,6 +73,6 @@ Decimals: 18
 
 Resources:
 
-Official Website http://urlennia
+Official Website http://95.183.53.38/
 
 Whitepaper http://95.183.53.38/wp-content/uploads/2025/01/urdc-whitepaper.pdf
