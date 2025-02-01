@@ -86,4 +86,4 @@ Resources:
 
 Official Website:  http://95.183.53.38/urdc/
 
-Whitepaper:  <a href="https://github.com/urlennia/URDC/blob/main/whitepaper">whitepaper.md</a>
+Whitepaper:  <a href="https://github.com/urlennia/URDC/blob/main/whitepaper.md">whitepaper.md</a>
