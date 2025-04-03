@@ -84,6 +84,6 @@ Decimals: 18
 <br><br>
 Resources:
 
-Official Website:  http://95.183.53.38/urdc/
+Official Website:  https://urlennia.life/urdc/
 
 Whitepaper:  <a href="https://github.com/urlennia/URDC/blob/main/whitepaper.md">whitepaper.md</a>
