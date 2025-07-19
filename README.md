@@ -13,7 +13,7 @@ The Urlennian Digital Coin(URDC) is a type of cryptocurrency that is referred to
 <br><br>
 How to Purchase URDC Tokens:
 
-If you wish to purchase URDC tokens, please visit the <a href="http://95.183.53.38/noble-depository/">Noble Depository</a> that has been set up:
+If you wish to purchase URDC tokens, please visit the <a href="https://urlennia.com/noble-depository/">Noble Depository</a> that has been set up:
 
 Purchase URDC Tokens
 
@@ -84,6 +84,6 @@ Decimals: 18
 <br><br>
 Resources:
 
-Official Website:  https://urlennia.life/urdc/
+Official Website:  https://urlennia.com/urdc/
 
 Whitepaper:  <a href="https://github.com/urlennia/URDC/blob/main/whitepaper.md">whitepaper.md</a>
