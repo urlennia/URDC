@@ -1,6 +1,6 @@
 The Noble Depository  – URDC (UR)
 
-The URDC (UR) token is natively supported and managed through the Urlennian Treasury Noble Depository <a href="http://95.183.53.38/noble-depository/">(Visit Here)</a>. 
+The URDC (UR) token is natively supported and managed through the Urlennian Treasury Noble Depository <a href="https://urlennia.com/noble-depository/">(Visit Here)</a>. 
 
 The Noble Depository serves as the central hub for all URDC-related activities, providing a seamless experience for users and stakeholders.
 
@@ -46,7 +46,7 @@ Developers can access real-time data, token balances, and transaction informatio
 
 `https://api.polygonscan.com/api?module=account&action=tokenbalance&contractaddress=0x554993f21376e2beDBE81340eE43a1f2f37f9662&address=0xfb3e15140Fd4207562F7F93AA2d136D1e590F086&apikey=F5HR1JBU4Q6QUP2XQVNAX3T5YTPCEUE67Z`
 
-<a href="http://95.183.53.38/noble-depository/">24hr Price Data</a>
+<a href="https://urlennia.com/noble-depository/">24hr Price Data</a>
 
 <a href="https://app.uniswap.org/explore/tokens/polygon/0x554993f21376e2bedbe81340ee43a1f2f37f9662
 ">Liquidity Pool Data</a>
