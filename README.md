@@ -1,7 +1,7 @@
 # URDC
 Urlennian Digital Coin(URDC)
 
-Token Symbol:(UR) 
+Token Symbol:(URDC) 
 
 Polygon (ERC-20)
 
@@ -30,12 +30,12 @@ Total Supply:
 
 Circulating Supply: 
 
-1 trillion tokens are currently in circulation.
+2 trillion tokens are currently in circulation.
 
 <br><br>
 Utility: 
 
-The UR token will be used for various purposes within the Urlennia ecosystem, including trade, payments, and smart contracts.
+The URDC token will be used for various purposes within the Urlennia ecosystem, including trade, payments, and smart contracts.
 
 <br><br>
 Smart Contract Address:
@@ -46,14 +46,14 @@ Polygon (ERC-20): 0x554993f21376e2bedbe81340ee43a1f2f37f9662
 Tokenomics:
 
 Initial Supply: 
-3 trillion UR.
+3 trillion URDC.
 
 Circulating Supply: 
-1 trillion UR.
+2 trillion URDC.
 
 Reserve Supply: 
 
-2 trillion UR (held in reserve for future use).
+1 trillion URDC (held in reserve for future use).
 
 
 Burn Mechanism: 
@@ -70,14 +70,16 @@ You can interact with the UR token on Uniswap.
 For those looking to integrate with the token in their own apps or smart contracts, we have included the relevant contract ABI and details below.
 
 <br><br>
-How to Add UR Token to MetaMask:
+How to Add URDC Token to MetaMask:
 
 
-To add the UR Token to MetaMask, use the following information:
+To add your purchased URDC to MetaMask wallet, use the following information:
 
-Token Contract Address: 0x554993f21376e2bedbe81340ee43a1f2f37f9662
+Network: Polygon
 
-Token Symbol: UR
+Token Contract Address: 0x8a5183837ff197ee16B034367a9f2A081DFf4f79
+
+Token Symbol: URDC
 
 Decimals: 18
 
