@@ -1,11 +1,11 @@
 
-Whitepaper - Urlennian Digital Coin (URDC)
+Whitepaper - Urlennia Digital Coin (URDC)
 <br><br>
 1. Abstract
-The Urlennian Digital Coin(URDC) is a type of cryptocurrency that is referred to as a commodity-backed stablecoin, meaning it is backed by reserve assets in a decentralized financial system, such as gold, platinum, and mineral assets. In the case of URDC, it is designed to be pegged to 9% of the Urlennian gross national product(GNP) and secured 1:1 by real world commodities. 
+The Urlennia Digital Coin(URDC) is a type of cryptocurrency that is referred to as a commodity-backed stablecoin, meaning it is backed by reserve assets in a decentralized financial system, such as gold, platinum, and mineral assets. In the case of URDC, it is designed to be pegged to 9% of the Urlennian gross national product(GNP) and secured 1:1 by real world commodities. 
 <br><br>
 2. Vision & Mission
-To establish the Urlennian Digital Coin (URDC) as the commodity-backed stable cryptocurrency of the future, providing financial autonomy, reducing dependency on traditional banking systems, and fostering global economic inclusion.
+To establish the Urlennia Digital Coin (URDC) as the commodity-backed stable cryptocurrency of the future, providing financial autonomy, reducing dependency on traditional banking systems, and fostering global economic inclusion.
 
 Our mission is to leverage cutting-edge blockchain technology to create a stable, secure, and scalable digital currency that powers daily transactions, government services, and international trade. Through transparent governance and strategic partnerships, URDC will become a key player in the emerging decentralized economy.
 
@@ -15,8 +15,8 @@ Total Supply:
 
 The total supply of URDC will be capped at 3 trillion tokens to ensure scarcity and prevent inflation.
 
-Initial Supply: 1 billion URDC.
-Max Supply: 1 trillion URDC (inflationary models will be in place to prevent sudden large increases).
+Initial Supply: 2 trillion URDC.
+Max Supply: 3 trillion URDC (inflationary models will be in place to prevent sudden large increases).
 
 Token Distribution:
 
@@ -65,17 +65,16 @@ Smart contract deployment on the Polygon blockchain.
 Launch of website and initial marketing campaigns.
 
 Phase 2 (Q1-Q2 2025):
-Listing of URDC on major exchanges like CoinMarketCap and CoinGecko.
 Development and release of the native URDC wallet.
 Establishment of strategic partnerships for widespread adoption.
 
 Phase 3 (Q3-Q4 2025):
-Launch of the staking platform for URDC holders.
+Adoption of URDC as a sovereign reserve currency for other nations.
 Integration of URDC as a payment option for global businesses and services.
 
 Government services fully powered by URDC.
 Phase 4 (2026):
-Adoption of URDC as a sovereign reserve currency for other nations.
+Launch of the staking platform for URDC holders.
 Expansion into new global markets and financial systems.
 
 8. Risks and Challenges
@@ -89,5 +88,5 @@ Widespread adoption of URDC will depend on multiple factors, including user educ
 
 9. Conclusion
 
-The Urlennian Digital Coin (URDC) represents a bold step towards financial control and global participation. Through our innovative governance model, robust technology, and clear roadmap, URDC aims to empower generations and establish itself as a globally recognized currency. Join us in shaping the future of decentralized finance and empowering a new era of financial independence.
+The Urlennia Digital Coin (URDC) represents a bold step towards financial control and global participation. Through our innovative governance model, robust technology, and clear roadmap, URDC aims to empower generations and establish itself as a globally recognized currency. Join us in shaping the future of decentralized finance and empowering a new era of financial independence.
 
