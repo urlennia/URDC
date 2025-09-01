@@ -28,9 +28,9 @@ Token Distribution:
 
 4. Use Cases:
 
-Governance: URDC will be used for voting and governance within the Urlennian Treasury.
+Governance: URDC will be used for voting and governance within Urlennia.
 
-Payments: Nationals can use URDC for everyday transactions, government taxes, and international payments.
+Payments: Nationals can use URDC for everyday transactions, government taxes, and payments.
 
 Staking and Yield Farming: Investors and users can stake their URDC to earn rewards.
 
@@ -69,7 +69,7 @@ Development and release of the native URDC wallet.
 Establishment of strategic partnerships for widespread adoption.
 
 Phase 3 (Q3-Q4 2025):
-Adoption of URDC as a sovereign reserve currency for other nations.
+Adoption of URDC as a sovereign reserve currency of Urlennia.
 Integration of URDC as a payment option for global businesses and services.
 
 Government services fully powered by URDC.
